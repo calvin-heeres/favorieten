@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hier staat niks aap
+=======
+hond 
+kat 
+aap
+>>>>>>> dieren
