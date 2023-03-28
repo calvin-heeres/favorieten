@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hier staat niks aap
 =======
 hond 
 kat 
 aap
 >>>>>>> dieren
+=======
+gamen
+chillen
+scooter rijden
+>>>>>>> hobbies
